@@ -1,0 +1,14 @@
+{
+  "name": "caclulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Brocfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "broccoli": "^0.16.4"
+  }
+}
